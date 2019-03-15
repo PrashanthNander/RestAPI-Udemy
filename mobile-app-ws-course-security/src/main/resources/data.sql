@@ -1,0 +1,1 @@
+//insert into users (email, email_verification_status, email_verification_token, encripted_password, first_name, last_name, user_id, id) values ('prash@springboot.com', null, null, '$2a$10$VeLWBOSVLKa3Szmx7g1hj.3gkoBOJE0QuJMDOCCk8R6wQHno1g8Hm', 'Prashanth', 'Nander', '9Zms05NLz8sOGt0iU8TXD5oGhUvAgO', 100);
